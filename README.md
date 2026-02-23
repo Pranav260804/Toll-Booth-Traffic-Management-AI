@@ -3,7 +3,7 @@ An innovative Computer Vision solution designed to automate toll booth operation
 
 <p align="center">
   <kbd>
-    <img src="working/demo.gif" width="500">
+    <img src="working/demo.gif" width="600">
   </kbd>
   <br>
   <em>Real-time vehicle detection and toll-release logic in action</em>
