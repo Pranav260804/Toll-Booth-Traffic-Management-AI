@@ -84,3 +84,8 @@ DeepSORT Integration: Adding unique ID tracking to count total daily traffic flo
 ANPR Integration: Automatically reading license plates of vehicles crossing the line.
 
 Cloud Logging: Sending congestion data to a dashboard for city planners.
+## Author
+Pranav Kale
+
+## Credits
+Initial development reference from apuProgramz
